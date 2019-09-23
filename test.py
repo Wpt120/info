@@ -5,3 +5,4 @@ height = '185cm'
 weight = '75kg'
 
 birthday = '1月20日'
+'like drink water'

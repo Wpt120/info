@@ -6,3 +6,7 @@ weight = '75kg'
 '有事你'
 birthday = '1月20日'
 'like drink water'
+
+
+'我喜欢你'
+

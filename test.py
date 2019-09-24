@@ -4,3 +4,5 @@ num = 10
 height = '185cm'
 weight = '75kg'
 girlfriend = 'yes'
+
+num1 = 10

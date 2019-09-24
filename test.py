@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name = 'wpt'
 like = 'girl'
 num = 10
@@ -7,3 +8,6 @@ girlfriend = 'yes'
 <<<<<<< HEAD
 classmates = 'huzi'
 num1 = 10
+=======
+
+>>>>>>> dev
